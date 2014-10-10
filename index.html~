@@ -56,7 +56,7 @@
         <div class="slide" id="landing-slide">
           <section class="middle">
             <p>Beagleboard.org</p>
-            <img src="Boris_Tux_PNG.png" alt="beagle">
+            <img src="/img/Boris_Tux_PNG.png" alt="beagle">
             <div update>
               Una presentacion sobre BeagleBoard.org.<br>
               Presentado por Diego Turcios<br>
@@ -78,7 +78,7 @@
                 BeagleBoard.org
               </h1>
             </hgroup>
-            <img src="beaglelogo.png" alt="logo">
+            <img src="/img/beaglelogo.png" alt="logo">
             <p>La  BeagleBoard es una single board computer, hardware libre, de bajo consumo producida por Texas Instruments en assocacion con Digi-Key & Newark elemnts.
             Utiliza el chip OMAP(Open Multimedia Applications Platforms) 3530 de Texas Instrument.</p>
           </section>
@@ -95,7 +95,7 @@
               <li>Hay que colaborar en los problemas de la comunidad</li>
               <li>Entender y mejorar los fundamentos de la comunidad</li>
             </ul>
-            <img src="Boris_w_Logopng.png" width="340px" height="350px" alt="withlogo">
+            <img src="/img/Boris_w_Logopng.png" width="340px" height="350px" alt="withlogo">
           </section>
         </div>
 
